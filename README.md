@@ -11,7 +11,7 @@ Whoever you are, nice to know you! 😊
 I'm **Ahmad Zaki**, an Informatics Engineering student at **Universitas Brawijaya**.  
 
 - 💡 I’m passionate about **AI Engineering, Data Science, Mobile Development, System Integration, and Product Development**.  
-- 🚗 Completed an internship at **PT Toyota Motor Manufacturing Indonesia (TMMIN)**, developing the **TITAN Telematics App** integrated with IoT sensors and mobile systems.  
+- 🚗 Completed an internship at **PT Toyota Motor Manufacturing Indonesia (TMMIN)**, developing the **Mobile Telematics App** integrated with IoT sensors and mobile systems.  
 - 📱 Currently building **Antreless**, a queue-free canteen ordering app for universities with real-time order and payment integration.  
 - 🧠 Member of **Intelligent System Laboratory**, focusing on **AI and Data-Driven Applications**.  
 - 🏆 Achieved several recognitions, including **Best Team Project in Data Science (ITS x Petrokimia Gresik)** and **BSI Scholarship Awardee**.  
